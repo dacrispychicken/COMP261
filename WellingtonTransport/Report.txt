@@ -1,0 +1,2 @@
+I have completed stages 1, 2, and 3 and they look to pass all the tests provided
+Havent started on the articulation points or the last stage
